@@ -2,9 +2,11 @@ html, body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: rgba(75, 176, 235, 0.589);
     color: black;
   }
+html{
+  background-color: rgba(75, 176, 235, 0.589);
+}
 .game{
   text-align: center;
 }
